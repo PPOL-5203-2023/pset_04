@@ -41,7 +41,7 @@ This will create a folder in your local working directory. This folder is a loca
 
 ### Step 2
 
-Your problem set is fully described in the notebook `_ps_set2.ipynb`. 
+Your problem set is fully described in the notebook `_ps_set_04.ipynb`. 
 
 You can open `ipynb` using jupyter notebooks. 
 
